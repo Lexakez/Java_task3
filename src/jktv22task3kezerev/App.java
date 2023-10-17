@@ -49,7 +49,7 @@ class App {
                 break;
         }
         
-        System.out.println(Name + " " + lastName + " родился " + day + " " + monthName + " " + year + "года");
+        System.out.println(Name + " " + lastName + " родился " + day + " " + monthName + " " + year + " года");
         
         scanner.close();
     }
